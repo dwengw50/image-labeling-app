@@ -2,9 +2,9 @@
 This application allows users to label object-based images with annotations such as joints, bounding box, and specific tags.  
   
 ## Running the Application from Terminal  
-Click the clone button in BitBucket, copy the provided clone command.  
+Click the clone button, copy the provided clone command.  
 Go to terminal, go to desired local repository cloning location, and paste/run copied command.  
-Enter your BitBucket credentials if prompted.  
+Enter your credentials if prompted.  
 Then enter the repository:  
     `$ cd image-labeling-app`  
 Compile the application: (You may safely ignore any resulting notices)  
