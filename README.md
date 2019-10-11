@@ -10,7 +10,7 @@ Then enter the repository:
 Compile the application: (You may safely ignore any resulting notices)  
     `$ javac -cp ".:./json-simple-1.1.jar" LabelImage.java`  
 Run the application:  
-    `$ java -cp ".:./json-simple-1.1.jar" LabelImage` 
+    `$ java -cp ".:./json-simple-1.1.jar" LabelImage`  
 Note: `: above is ; for Windows`
 
 ## Supporting Files
