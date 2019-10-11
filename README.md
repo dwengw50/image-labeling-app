@@ -11,6 +11,7 @@ Compile the application: (You may safely ignore any resulting notices)
     `$ javac -cp ".:./json-simple-1.1.jar" LabelImage.java`  
 Run the application:  
     `$ java -cp ".:./json-simple-1.1.jar" LabelImage` 
+Note: `: above is ; for Windows`
 
 ## Supporting Files
   - `JointNames.txt`: Contains all of the joint names to be used as options in labeling.  
